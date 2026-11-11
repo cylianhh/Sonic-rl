@@ -1,0 +1,17 @@
+# Environnement Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Fichiers temporaires
+*.log
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+
+models/
+*.zip
+roms/
